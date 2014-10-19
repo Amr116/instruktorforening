@@ -10,13 +10,37 @@ instituttet når der søges instruktorater.
 
 ## Eksempler på praktiske erfaringer
 
-**Formulering af feedback**: For at gøre det nemmere både at lave og rette
-genafleveringer, er det en fordel at formulere en punktliste af ting som skal
-virke ved genaflevering før den bliver godkendt. Det giver en praktisk,
-afgrænset plan til den studerende, og det fremhæver, når genafleveringer ikke
-kræver at alting er perfekt, hvad der er det vigtigste. Indsatsen for beståelse
-afhænger naturligvis af rammerne for den enkelte opgave. Og det gør rettelsen af
-genafleveringer meget mekanisk.
+### Gem feedback på disken før du uploader
+
+Skriv aldrig dit feedback direkte ind i Absalons feedback-felt. Absalon er ikke
+sky for at slette indhold i feedback-tekstfelter, hvis den beslutter sig for at
+du ikke er logget ind længere.
+
+Gem i stedet feedback i en eller flere tekstfiler, hvor du enten uploader
+enkelte tekstfiler til hver person eller copy-paster afsnit ind i Absalons
+feedback-tekstfelt.
+
+Et godt værktøj som nogle bruger er Emacs org-mode, da man kan lave punktlister
+som kan kollapses så man kun kigger på en enkelt sektion af gangen. Et lignende
+miljø kan opnås med Vim og "foldning".
+
+### Ret folks opgaver efter deres sandsynlighed for genaflevering
+
+Ved første obligatoriske opgave, så ret folk alfabetisk. Men ved anden
+obligatoriske opgave, så sortér folk efter hvem som skulle genaflevere den
+første. Det giver dem som har mest brug for det mere tid til genafleveringen.
+Ved efterfølgende afleveringer kan man vælge, hvor langt man vil se tilbage,
+eller om man bare vil bruge sin erindring om hvem som har mest brug for tidlig
+respons.
+
+### Formulering af feedback
+
+For at gøre det nemmere både at lave og rette genafleveringer, er det en fordel
+at formulere en punktliste af ting som skal virke ved genaflevering før den
+bliver godkendt. Det giver en praktisk, afgrænset plan til den studerende, og
+det fremhæver, når genafleveringer ikke kræver at alting er perfekt, hvad der er
+det vigtigste. Indsatsen for beståelse afhænger naturligvis af rammerne for den
+enkelte opgave. Og det gør rettelsen af genafleveringer meget mekanisk.
 
 Et eksempel på feedback:
 
